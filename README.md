@@ -1,6 +1,6 @@
 # Memory-Management-C-Sharp
 
-Dedicated repsitory for memory management related articles.
+Dedicated repository for memory management related articles.
 
 ### `Memory Leaks`
 
