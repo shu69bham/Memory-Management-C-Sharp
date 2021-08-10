@@ -2,6 +2,10 @@
 
 Dedicated repository for memory management related articles.
 
+### `Garbage Collection`
+
+https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals
+
 ### `Dispose() vs Finalize() in C#`
 
 https://www.c-sharpcorner.com/UploadFile/nityaprakash/back-to-basics-dispose-vs-finalize/
