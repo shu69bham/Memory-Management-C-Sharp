@@ -6,6 +6,8 @@ Dedicated repository for memory management related articles.
 
 https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals
 
+https://www.c-sharpcorner.com/article/deep-dive-into-c-sharp-garbage-collection-and-disposal-part-one/
+
 ### `Dispose() vs Finalize() in C#`
 
 https://www.c-sharpcorner.com/UploadFile/nityaprakash/back-to-basics-dispose-vs-finalize/
